@@ -1,0 +1,67 @@
+/* welcome page */
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+.link {
+    border: 1px solid;
+    padding: 10px 30px 10px 30px;
+    border-radius: 20px;
+    margin: 1rem;
+    background-color: rgb(141 149 132);
+}
+
+a {
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+
+.login-signup-btn {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.link:hover {
+    box-shadow: 8px 5px 5px rgba(178, 186, 170, 0.821);
+}
+
+.welcome-pg {
+    margin-top: 15rem;
+}
+
+/* login page */
+.login-pg {
+    margin-top: 15rem;
+}
+
+.text-box {
+    height: 60px;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+#btn {
+    font-size: 20px;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    margin-top: 2rem;
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: rgb(141 149 132);
+    background-color: rgb(141 149 132);
+}
+
+#btn:hover {
+    box-shadow: 5px 5px 5px rgba(178, 186, 170, 0.821);
+    transform: scale(1.1);
+}
+
+/* sign up page */
+.signup-pg {
+    margin-top: 12rem;
+}
